@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710630750417",
+    "firebase_url": "https://customsignin-5d7db.firebaseio.com",
+    "project_id": "customsignin-5d7db",
+    "storage_bucket": "customsignin-5d7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710630750417:android:9e6482dc8ccb593d",
+        "android_client_info": {
+          "package_name": "com.identity.rahul.customgooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710630750417-bh7mehrrhlt14dl553uog781q0iqakct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.identity.rahul.customgooglesignin",
+            "certificate_hash": "17241af72a64d579e375003423f917a52008908d"
+          }
+        },
+        {
+          "client_id": "710630750417-q55fmvr8k5nq11r39idqa15lrg12klde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6z0uqjb10MTlF5_BCnXIFXaHu8Rem-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710630750417-q55fmvr8k5nq11r39idqa15lrg12klde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
